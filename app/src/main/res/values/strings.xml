@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="add_story">Add story</string>
+    <string name="logout">Logout</string>
+    <string name="alert_logout">Apakah Anda yaking ingin melakukan Logout?</string>
+    <string name="yes">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="password_invalid">Password must contain at least 8 characters</string>
+    <string name="password">Password</string>
+    <string name="camera_fail">Failed to open camera</string>
+    <string name="capture_failed">Failed to capture image</string>
+    <string name="take_a_picture">Take a picture</string>
+    <string name="upload_a_picture">Upload a picture</string>
+    <string name="story_description">Add description to your story...</string>
+    <string name="post">Post</string>
+    <string name="camera_permission">Camera permission not granted</string>
+    <string name="choose_photo">Choose your photo</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="desc_signup">Belum memiliki akun?</string>
+    <string name="or_sign_up">Daftar akun</string>
+    <string name="invalid_password">Password must contain at least 8 characters</string>
+    <string name="name_hint">Nama</string>
+    <string name="or_sign_in">Masuk</string>
+    <string name="desc_signin">Sudah memiliki akun?</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="pref_key">com.dicoding.picodiploma.storyapp.</string>
+    <string name="maps">Maps</string>
+</resources>
